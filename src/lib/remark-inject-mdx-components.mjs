@@ -15,6 +15,8 @@ import { visit } from "unist-util-visit";
 /** @type {Record<string, string>} */
 const COMPONENTS = {
 	Infobox: "import Infobox from '../../../components/mdx/Infobox.astro';",
+	BadgeTable:
+		"import BadgeTable from '../../../components/mdx/BadgeTable.astro';",
 };
 
 export default function remarkInjectMdxComponents() {

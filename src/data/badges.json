@@ -1,0 +1,378 @@
+[
+	{
+		"name": "Early Adopter",
+		"description": "Joined during the inaugural season. The Ice noticed.",
+		"category": "milestone",
+		"rarity": "rare",
+		"color": "#a855f7",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><rect width=\"176\" height=\"176\" x=\"40\" y=\"40\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" rx=\"8\"></rect><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M176 24v32M80 24v32M128 158.54 157.67 176l-8.07-32.59 26.4-21.8-34.65-2.67L128 88l-13.35 30.94L80 121.61l26.4 21.8L98.33 176z\"></path></svg>"
+	},
+	{
+		"name": "Preregistered",
+		"description": "Signed up before the first puck dropped. Le Council has your name on file. This is neither a threat nor a promise.",
+		"category": "milestone",
+		"rarity": "rare",
+		"color": "#8b5cf6",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"164\" cy=\"68\" r=\"12\" fill=\"currentColor\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M104 99.52V76.89c0-28.77 23-52.75 51.74-52.89a52 52 0 0 1 50.59 38.89L232 80l-24 16v24a96 96 0 0 1-96 96H24a8 8 0 0 1-6.25-13ZM128 128l-73.33 88\"></path></svg>"
+	},
+	{
+		"name": "First Five Hundred",
+		"description": "One of the first five hundred to answer. Le Council has a list. You are on it.",
+		"category": "milestone",
+		"rarity": "rare",
+		"color": "#856A00",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 256 256\"><path stroke=\"currentColor\" stroke-width=\"16\" d=\"M128 241c62.408 0 113-50.592 113-113S190.408 15 128 15 15 65.592 15 128s50.592 113 113 113Z\"></path><path fill=\"currentColor\" d=\"M54.663 119.02a54 54 0 0 1 3.268-.341 49 49 0 0 1 3.269-.114q8.226 0 14.876 2.958 6.761 2.96 10.82 8.761 4.056 5.803 4.056 14.337 0 7.85-3.268 13.54-3.156 5.802-8.79 9.443-5.523 3.755-12.848 5.576Q58.833 175 50.718 175c-20.431-1.356-15.82-1.569-19.351-2.024q-1.69-.228-1.803-1.593-.225-1.935-.451-3.072a22 22 0 0 1-.113-2.162q0-.683.45-1.138.452-.454 1.24-.228c1.729.38 12.252 1.987 13.83 2.139q2.48.34 4.846.341 6.424 0 11.608-2.389 5.297-2.276 8.34-7.396 3.156-5.006 3.156-13.199 0-7.395-3.043-11.264-2.93-3.982-7.439-5.461a28.1 28.1 0 0 0-9.016-1.479q-1.803 0-4.057.341-2.254.227-3.944.569-1.691.34-2.254.341-1.466 0-1.127-1.707l6.085-32.768q.339-1.48 1.916-1.48h16.567q2.029 0 5.297-.113a67 67 0 0 0 6.65-.569q3.493-.454 6.085-1.365 2.705-1.024 3.72-2.731l.338-.569Q88.81 85 89.6 85q.564 0 1.014.341l3.494 2.048q.902.57.902 1.366 0 .34-.339.91l-7.1 12.061q-.563.91-1.352.91-.225 0-.563-.114-.339-.114-1.015-.796-.45-.57-1.014-.569H58.495zM128.998 90.917q6.423 0 12.059 2.503a31.35 31.35 0 0 1 9.917 6.94q4.283 4.438 6.65 10.354 2.48 5.804 2.479 12.516t-2.479 12.63q-2.367 5.803-6.65 10.24a31.3 31.3 0 0 1-9.917 6.94q-5.636 2.504-12.059 2.504-6.425 0-12.059-2.504a31.3 31.3 0 0 1-9.918-6.94q-4.283-4.437-6.762-10.24-2.367-5.918-2.367-12.63t2.367-12.516q2.48-5.916 6.762-10.354a31.3 31.3 0 0 1 9.918-6.94q5.634-2.503 12.059-2.503m-.113 8.647q-5.184 0-8.565 3.641-3.381 3.526-5.072 8.988a40.4 40.4 0 0 0-1.578 11.265q0 5.802 1.691 11.378 1.803 5.462 5.184 9.102 3.494 3.64 8.678 3.641 3.945 0 6.649-2.162 2.818-2.161 4.621-5.803 1.916-3.64 2.705-7.964.902-4.324.902-8.647 0-5.803-1.691-11.151-1.578-5.461-4.959-8.875t-8.565-3.413M197.895 90.917q6.423 0 12.059 2.503a31.35 31.35 0 0 1 9.917 6.94q4.283 4.438 6.65 10.354 2.48 5.804 2.479 12.516t-2.479 12.63q-2.367 5.803-6.65 10.24a31.3 31.3 0 0 1-9.917 6.94q-5.636 2.504-12.059 2.504-6.425 0-12.059-2.504a31.3 31.3 0 0 1-9.918-6.94q-4.282-4.437-6.762-10.24-2.367-5.918-2.367-12.63t2.367-12.516q2.48-5.916 6.762-10.354a31.3 31.3 0 0 1 9.918-6.94q5.634-2.503 12.059-2.503m-.113 8.647q-5.184 0-8.565 3.641-3.381 3.526-5.072 8.988a40.4 40.4 0 0 0-1.578 11.265q0 5.802 1.691 11.378 1.803 5.462 5.184 9.102 3.494 3.64 8.678 3.641 3.945 0 6.649-2.162 2.818-2.161 4.621-5.803 1.916-3.64 2.705-7.964.902-4.324.902-8.647 0-5.803-1.691-11.151-1.578-5.461-4.959-8.875t-8.565-3.413\"></path></svg>"
+	},
+	{
+		"name": "Council-Met",
+		"description": "Met a member of Le Council in person. What was discussed remains glacified. What was felt remains unexplained.",
+		"category": "milestone",
+		"rarity": "legendary",
+		"color": "#f59e0b",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"m200 152-40 40-64-16-56-40M72.68 70.63 128 56l55.32 14.63M34.37 60.42 8.85 111.48a8 8 0 0 0 3.57 10.73L40 136l32.68-65.37-27.57-13.78a8 8 0 0 0-10.74 3.57\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"m216 136 27.58-13.79a8 8 0 0 0 3.57-10.73l-25.52-51.06a8 8 0 0 0-10.74-3.57l-27.57 13.78ZM184 72h-40l-45.66 44.29a8 8 0 0 0 1.38 12.42C117.23 139.9 141 139.13 160 120l40 32 16-16M124.06 216l-41.72-10.43L56 186.75\"></path></svg>"
+	},
+	{
+		"name": "First Wager",
+		"description": "Placed your very first bet. The Ice approves of commitment, even uninformed commitment.",
+		"category": "betting",
+		"rarity": "common",
+		"color": "#6b7280",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"128\" cy=\"96\" r=\"80\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><circle cx=\"128\" cy=\"96\" r=\"48\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M176 160v80l-48.01-24L80 240v-79.99\"></path></svg>"
+	},
+	{
+		"name": "Regular",
+		"description": "Placed 50 bets. At this point, Le Council considers you a recurring line item.",
+		"category": "betting",
+		"rarity": "common",
+		"color": "#78716c",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"m112 96 26.27-72C159.86 41.92 208 88.15 208 144a80 80 0 0 1-160 0c0-30.57 14.42-58.26 31-80Z\"></path></svg>"
+	},
+	{
+		"name": "Habitual",
+		"description": "Placed 100 bets. O.D.D.S. has opened a file on you. This is standard procedure. Probably.",
+		"category": "betting",
+		"rarity": "uncommon",
+		"color": "#0ea5e9",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M136 192c20-3.37 36.61-20 40-40\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"m112 96 26.27-72C159.86 41.92 208 88.15 208 144a80 80 0 0 1-160 0c0-30.57 14.42-58.26 31-80Z\"></path></svg>"
+	},
+	{
+		"name": "Compulsive",
+		"description": "Placed 500 bets. Le Council does not judge. Le Council does, however, take notes.",
+		"category": "betting",
+		"rarity": "rare",
+		"color": "#d946ef",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"96\" cy=\"160\" r=\"32\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"m168 176 48-48M160 128l24-24M208 80l16-16M128 96l72-72M141.25 205.25a64 64 0 1 1-90.5-90.5L133.49 32\"></path></svg>"
+	},
+	{
+		"name": "Hot Streak",
+		"description": "Won 5 bets in a row. Skill or coincidence. The Ice does not distinguish.",
+		"category": "betting",
+		"rarity": "common",
+		"color": "#f97316",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M16 130.29 54.4 168 144 80M125.96 144l24.44 24L240 80\"></path></svg>"
+	},
+	{
+		"name": "On Fire",
+		"description": "Won 10 bets in a row. O.D.D.S. would like a word. Several words, actually.",
+		"category": "betting",
+		"rarity": "uncommon",
+		"color": "#ef4444",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M141.78 16A13.77 13.77 0 0 1 155 25.78L192 148l20.27 20.27-45 43-29.94-29.94a32 32 0 0 1-9.33-22.58v-129A13.78 13.78 0 0 1 141.78 16\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"m167.31 211.31 18.35 18.35a8 8 0 0 0 11.31 0L229.66 197a8 8 0 0 0 0-11.31l-18.35-18.35M118.63 181.37l-29.94 29.94-44-44L64 148l37-122.22A13.77 13.77 0 0 1 114.22 16h0A13.78 13.78 0 0 1 128 29.78v129a32 32 0 0 1-9.37 22.59M44.69 167.31l-18.35 18.35a8 8 0 0 0 0 11.31L59 229.66a8 8 0 0 0 11.31 0l18.35-18.35\"></path></svg>"
+	},
+	{
+		"name": "Untouchable",
+		"description": "Won 25 bets in a row. This should not be possible. Le Council is convening.",
+		"category": "betting",
+		"rarity": "legendary",
+		"color": "#eab308",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M128 120s90-96 0-96 0 96 0 96M128 120s-96-90-96 0 96 0 96 0M128 120s-90 96 0 96 0-96 0-96M128 120s96 90 96 0-96 0-96 0\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M128 120s64 56 80 120\"></path></svg>"
+	},
+	{
+		"name": "All In",
+		"description": "Wagered your entire Looney balance on a single game. Le Council respects the audacity. Le Council does not endorse it.",
+		"category": "betting",
+		"rarity": "uncommon",
+		"color": "#dc2626",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"128\" cy=\"128\" r=\"96\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><circle cx=\"128\" cy=\"128\" r=\"56\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M128 72V32M88.4 88.4 60.12 60.12M72 128H32M88.4 167.6l-28.28 28.28M128 184v40M167.6 167.6l28.28 28.28M184 128h40M167.6 88.4l28.28-28.28\"></path></svg>"
+	},
+	{
+		"name": "Zeroed Out",
+		"description": "Reached exactly 0 Looneys. The Ice giveth, the Ice taketh away, and sometimes it taketh all of it.",
+		"category": "betting",
+		"rarity": "uncommon",
+		"color": "#1e293b",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"128\" cy=\"128\" r=\"88\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M208 40 48 216\"></path></svg>"
+	},
+	{
+		"name": "The Mathematician",
+		"description": "Won a bet at odds worse than 15%. O.M.E.N. claims you are one of them. You may wish to deny this.",
+		"category": "betting",
+		"rarity": "rare",
+		"color": "#14b8a6",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M80 64h96v48H80z\"></path><rect width=\"192\" height=\"160\" x=\"32\" y=\"48\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" rx=\"8\" transform=\"rotate(90 128 128)\"></rect><circle cx=\"88\" cy=\"148\" r=\"12\" fill=\"currentColor\"></circle><circle cx=\"128\" cy=\"148\" r=\"12\" fill=\"currentColor\"></circle><circle cx=\"168\" cy=\"148\" r=\"12\" fill=\"currentColor\"></circle><circle cx=\"88\" cy=\"188\" r=\"12\" fill=\"currentColor\"></circle><circle cx=\"128\" cy=\"188\" r=\"12\" fill=\"currentColor\"></circle><circle cx=\"168\" cy=\"188\" r=\"12\" fill=\"currentColor\"></circle></svg>"
+	},
+	{
+		"name": "Betrayer",
+		"description": "Changed team allegiance. The Ice does not forget your first choice. Your new team knows. Your old team definitely knows.",
+		"category": "social",
+		"rarity": "uncommon",
+		"color": "#b91c1c",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"92\" cy=\"132\" r=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><circle cx=\"164\" cy=\"132\" r=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M112 224v-32M144 224v-32M176 216a8 8 0 0 1-8 8H88a8 8 0 0 1-8-8v-20.31C51.31 179.78 32 150.05 32 116c0-50.81 43-92 96-92s96 41.19 96 92c0 34.05-19.31 63.78-48 79.69Z\"></path></svg>"
+	},
+	{
+		"name": "Apostate",
+		"description": "Set down one Idol and raised another. The first one was told. It does not take questions.",
+		"category": "social",
+		"rarity": "uncommon",
+		"color": "#7c3aed",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M128 40l23.5 63.6 67.8 2.7L166 148.4l18.4 65.3L128 176l-56.4 37.7L90 148.4l-53.3-42.1 67.8-2.7Z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M48 216 208 56\"></path></svg>"
+	},
+	{
+		"name": "Season 1",
+		"description": "Participated in Season 1. You were there. The Ice was there. It was a time.",
+		"category": "seasonal",
+		"rarity": "uncommon",
+		"color": "#3b82f6",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"128\" cy=\"128\" r=\"96\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M132 176V80l-24 16\"></path></svg>"
+	},
+	{
+		"name": "Season 2",
+		"description": "Participated in Season 2. The league grew. Le Council's list of names grew with it. Yours is on the second page.",
+		"category": "seasonal",
+		"rarity": "uncommon",
+		"color": "#6366f1",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"128\" cy=\"128\" r=\"96\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M104 104a24 24 0 0 1 48 0c0 12-8 20-16 28l-32 44h48\"></path></svg>"
+	},
+	{
+		"name": "Season 3",
+		"description": "Participated in Season 3. Three seasons of the same ice, and it still has not told anyone what it wants.",
+		"category": "seasonal",
+		"rarity": "uncommon",
+		"color": "#7c3aed",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><circle cx=\"128\" cy=\"128\" r=\"96\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M104 88h48l-26 40a28 28 0 1 1-24 42\"></path></svg>"
+	},
+	{
+		"name": "The Ice Remembers",
+		"description": "Logged in every single day of a season. Le Council cannot confirm whether The Ice notices this. Le Council can confirm that it does.",
+		"category": "esoteric",
+		"rarity": "rare",
+		"color": "#67e8f9",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path d=\"M0 0h256v256H0z\"></path><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"m32 48 133.6 157.18a8 8 0 0 0 6.1 2.82H224a8 8 0 0 0 8-8v-32a8 8 0 0 0-8-8h-96.8M200 208v-48M56 208v-48M107 185.65l-16.6 19.53a8 8 0 0 1-6.1 2.82H32a8 8 0 0 1-8-8v-32a8 8 0 0 1 8-8h53.2M224 48l-68 80\"></path></svg>"
+	},
+	{
+		"name": "Sixth Witness",
+		"description": "Watched a live game in which a player entered The Sixth Dimension. What you saw cannot be unseen. What you felt cannot be unfelt. Le Council offers no counseling.",
+		"category": "esoteric",
+		"rarity": "uncommon",
+		"color": "#818cf8",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M24 224h208M56 224V40a8 8 0 0 1 8-8h128a8 8 0 0 1 8 8v184\"></path><circle cx=\"132\" cy=\"132\" r=\"12\" fill=\"currentColor\"></circle><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M168 32v192\"></path></svg>"
+	},
+	{
+		"name": "Fog Walker",
+		"description": "Placed a bet during a Fog match and won. Betting blind is not a strategy. Except when it is.",
+		"category": "esoteric",
+		"rarity": "rare",
+		"color": "#94a3b8",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M120 200H72M184 200h-24M160 232h-56M88 96a68.06 68.06 0 1 1 68 72H76a44 44 0 1 1 14.2-85.66\"></path></svg>"
+	},
+	{
+		"name": "Puck-Whispered",
+		"description": "Was online during a game when The Puck spoke. The Puck speaks once per season. You happened to be listening. Coincidence does not exist.",
+		"category": "esoteric",
+		"rarity": "legendary",
+		"color": "#fbbf24",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M160 216c-8.07 9.77-18.34 16-32 16a44 44 0 0 1-44-44c0-41.49-36-28-36-84a80 80 0 0 1 160 0\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M173.86 168a16 16 0 0 1-29.86-8c0-24 24-32 24-56a40 40 0 0 0-80 0\"></path></svg>"
+	},
+	{
+		"name": "Jambono-Cooked",
+		"description": "Held a fortune the night someone spilled coffee on The Jambono. It resurfaced more than the ice. The higher the stack, the deeper the shave. We apologize.",
+		"category": "esoteric",
+		"rarity": "rare",
+		"color": "#c08457",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><path fill=\"none\" d=\"M0 0h256v256H0z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M40 96h152v48a64 64 0 0 1-64 64h-24a64 64 0 0 1-64-64Z\"></path><path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\" d=\"M192 112h8a24 24 0 0 1 0 48h-12M80 24v40M116 24v40M152 24v40M32 240h168\"></path></svg>"
+	},
+	{
+		"name": "First Petition",
+		"description": "Filed your first petition with l'Agence des Pétitions et Sceaux Publics. Le Council has received it. Receipt is not endorsement.",
+		"category": "civic",
+		"rarity": "common",
+		"color": "#ca8a04",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m9 12 2 2 4-4\"></path><path d=\"M5 7c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v12H5V7Z\"></path><path d=\"M22 19H2\"></path></svg>"
+	},
+	{
+		"name": "Petitioner",
+		"description": "Filed 10 petitions. L'Agence recognizes your handwriting now.",
+		"category": "civic",
+		"rarity": "uncommon",
+		"color": "#a16207",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 12h-5\"></path><path d=\"M15 8h-5\"></path><path d=\"M19 17V5a2 2 0 0 0-2-2H4\"></path><path d=\"M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3\"></path></svg>"
+	},
+	{
+		"name": "Persistent Filer",
+		"description": "Filed 25 petitions. L'Agence has assigned you a dedicated tray.",
+		"category": "civic",
+		"rarity": "rare",
+		"color": "#854d0e",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 13V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.706.706l3.588 3.588A2.4 2.4 0 0 1 20 8v5\"></path><path d=\"M14 2v5a1 1 0 0 0 1 1h5\"></path><path d=\"M10 22v-5\"></path><path d=\"M14 19v-2\"></path><path d=\"M18 20v-3\"></path><path d=\"M2 13h20\"></path><path d=\"M6 20v-3\"></path></svg>"
+	},
+	{
+		"name": "The Agence Knows Your Name",
+		"description": "Filed 50 petitions. L'Agence des Pétitions et Sceaux Publics no longer asks for your ID. This should concern you.",
+		"category": "civic",
+		"rarity": "legendary",
+		"color": "#713f12",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 21V7\"></path><path d=\"m16 12 2 2 4-4\"></path><path d=\"M22 6V4a1 1 0 0 0-1-1h-5a4 4 0 0 0-4 4 4 4 0 0 0-4-4H3a1 1 0 0 0-1 1v13a1 1 0 0 0 1 1h6a3 3 0 0 1 3 3 3 3 0 0 1 3-3h6a1 1 0 0 0 1-1v-1.3\"></path></svg>"
+	},
+	{
+		"name": "First Seal",
+		"description": "Spent your first S.T.A.M.P. endorsing a petition. It cannot be refunded. You knew that. You did it anyway.",
+		"category": "civic",
+		"rarity": "common",
+		"color": "#0369a1",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><line x1=\"40\" y1=\"224\" x2=\"216\" y2=\"224\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></line><path d=\"M114.32,136,96.54,53A24,24,0,0,1,120,24h16a24,24,0,0,1,23.47,29l-17.78,83\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path><rect x=\"40\" y=\"136\" width=\"176\" height=\"56\" rx=\"8\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></rect></svg>"
+	},
+	{
+		"name": "Reliable Endorser",
+		"description": "Spent 25 S.T.A.M.P.S. across petitions. Le Council notes a pattern of civic participation. This is filed as a compliment.",
+		"category": "civic",
+		"rarity": "uncommon",
+		"color": "#075985",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path><polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline></svg>"
+	},
+	{
+		"name": "Seal-Bearer",
+		"description": "Spent 100 S.T.A.M.P.S. You have never missed a day you could help it. L'Agence has never asked you to.",
+		"category": "civic",
+		"rarity": "rare",
+		"color": "#0c4a6e",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14 13V8.5C14 7 15 7 15 5a3 3 0 0 0-6 0c0 2 1 2 1 3.5V13\"></path><path d=\"M20 15.5a2.5 2.5 0 0 0-2.5-2.5h-11A2.5 2.5 0 0 0 4 15.5V17a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1z\"></path><path d=\"M5 22h14\"></path></svg>"
+	},
+	{
+		"name": "Unlapsing",
+		"description": "Spent 365 S.T.A.M.P.S. over your lifetime — a full year's worth of endorsement, one administrative day at a time. Le Council recommends rest. Le Council does not expect you to take it.",
+		"category": "civic",
+		"rarity": "legendary",
+		"color": "#082f49",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z\"></path><path d=\"m9 12 2 2 4-4\"></path></svg>"
+	},
+	{
+		"name": "Ratified",
+		"description": "Authored a petition that Le Council enacted. It is now Hockay policy. This is the rarest kind of receipt: one that changes something.",
+		"category": "civic",
+		"rarity": "legendary",
+		"color": "#facc15",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><line x1=\"24\" y1=\"176\" x2=\"232\" y2=\"176\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></line><path d=\"M24,224S139.52,32,77.91,32C32.07,32,31.58,225.11,128,104.19c0,0,8.11,39.44,27.23,39.81,7.72.15,17.25-6.31,28.77-24,0,0,0,24,48,24\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path></svg>"
+	},
+	{
+		"name": "First Position",
+		"description": "Bought your first shares on The Exchange. S.L.U.S.H. has recorded the trade. It does not resolve. It does not expire. It is simply yours now.",
+		"category": "commerce",
+		"rarity": "common",
+		"color": "#22c55e",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><polyline points=\"224 208 32 208 32 48\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline><polyline points=\"224 96 160 152 96 104 32 160\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline></svg>"
+	},
+	{
+		"name": "Building a Position",
+		"description": "Bought shares 50 separate times. S.L.U.S.H. clears the book without comment. Le Council is, however, keeping score.",
+		"category": "commerce",
+		"rarity": "common",
+		"color": "#16a34a",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><polyline points=\"224 208 32 208 32 48\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline><polyline points=\"200 72 128 144 96 112 32 176\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline><polyline points=\"200 112 200 72 160 72\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline></svg>"
+	},
+	{
+		"name": "Active Trader",
+		"description": "Bought shares 100 times. Graine Wetsky Funds has started reading your order flow.",
+		"category": "commerce",
+		"rarity": "uncommon",
+		"color": "#0d9488",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><circle cx=\"204\" cy=\"84\" r=\"28\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><path d=\"M48,208H16a8,8,0,0,1-8-8V160a8,8,0,0,1,8-8H48\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path><path d=\"M112,160h32l67-15.41a16.61,16.61,0,0,1,21,16h0a16.59,16.59,0,0,1-9.18,14.85L184,192l-64,16H48V152l25-25a24,24,0,0,1,17-7H140a20,20,0,0,1,20,20h0a20,20,0,0,1-20,20Z\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path><path d=\"M176,85.29A28,28,0,1,1,192,58.71\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path></svg>"
+	},
+	{
+		"name": "Market Maker (Unofficial)",
+		"description": "Bought shares 500 times. S.L.U.S.H. does not have a title for you. Le Council suggests you invent one.",
+		"category": "commerce",
+		"rarity": "rare",
+		"color": "#065f46",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5\"></path><path d=\"M18 12h.01\"></path><path d=\"M19 22v-6\"></path><path d=\"m22 19-3-3-3 3\"></path><path d=\"M6 12h.01\"></path><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>"
+	},
+	{
+		"name": "First Exit",
+		"description": "Sold shares for the first time. A share is not a bet, but an exit is still an exit. The Ice does not judge conviction lost.",
+		"category": "commerce",
+		"rarity": "common",
+		"color": "#fb923c",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><polyline points=\"200 168 128 96 96 128 32 64\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline><polyline points=\"200 128 200 168 160 168\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline><polyline points=\"224 208 32 208 32 48\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline></svg>"
+	},
+	{
+		"name": "Frequent Seller",
+		"description": "Sold shares 50 separate times. The curve moved because you moved it.",
+		"category": "commerce",
+		"rarity": "common",
+		"color": "#ea580c",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M2.7 10.3a2.41 2.41 0 0 0 0 3.41l7.59 7.59a2.41 2.41 0 0 0 3.41 0l7.59-7.59a2.41 2.41 0 0 0 0-3.41L13.7 2.71a2.41 2.41 0 0 0-3.41 0Z\"></path><path d=\"M9.2 9.2h.01\"></path><path d=\"m14.5 9.5-5 5\"></path><path d=\"M14.7 14.8h.01\"></path></svg>"
+	},
+	{
+		"name": "Profit-Taker",
+		"description": "Sold shares 100 times. Conviction in, conviction out. S.L.U.S.H. calls this liquidity. Le Council calls it nerves.",
+		"category": "commerce",
+		"rarity": "uncommon",
+		"color": "#c2410c",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M13 17V9\"></path><path d=\"M18 17v-3\"></path><path d=\"M3 3v16a2 2 0 0 0 2 2h16\"></path><path d=\"M8 17V5\"></path></svg>"
+	},
+	{
+		"name": "The Exit Strategist",
+		"description": "Sold shares 500 times. Graine Wetsky Funds has asked S.L.U.S.H., politely, what you know that they don't.",
+		"category": "commerce",
+		"rarity": "rare",
+		"color": "#9a3412",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 18H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5\"></path><path d=\"m16 19 3 3 3-3\"></path><path d=\"M18 12h.01\"></path><path d=\"M19 16v6\"></path><path d=\"M6 12h.01\"></path><circle cx=\"12\" cy=\"12\" r=\"2\"></circle></svg>"
+	},
+	{
+		"name": "Majority Owner",
+		"description": "Held 50% or more of a team's issued shares. The fixed pool has a new plurality. Graine Wetsky Funds has taken notice. Le Council has taken notes.",
+		"category": "commerce",
+		"rarity": "legendary",
+		"color": "#4c1d95",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"none\"></rect><circle cx=\"76\" cy=\"188\" r=\"28\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></circle><line x1=\"48\" y1=\"72\" x2=\"88\" y2=\"112\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></line><line x1=\"88\" y1=\"72\" x2=\"48\" y2=\"112\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></line><line x1=\"184\" y1=\"168\" x2=\"224\" y2=\"208\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></line><line x1=\"224\" y1=\"168\" x2=\"184\" y2=\"208\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></line><polyline points=\"144 80 144 40 184 40\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline><path d=\"M144,40l16,16c40,40,8,88-24,96\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path></svg>"
+	},
+	{
+		"name": "First Blister",
+		"description": "Broke the seal on your first blister. La Confrérie prints; it does not appraise. What The Ice put inside is not its affair.",
+		"category": "collection",
+		"rarity": "common",
+		"color": "#8b8781",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12.832 8.445a1 1 0 00-1.589-.098l-2.075 3.098a1 1 0 000 1.11l2 3a1 1 0 001.664 0l2-3a1 1 0 000-1.11z\"/><rect x=\"5\" y=\"2\" width=\"14\" height=\"20\" rx=\"2\"/></svg>"
+	},
+	{
+		"name": "Fifty Sealed",
+		"description": "Opened fifty blisters. Three hundred cards struck on your account alone. La Confrérie has filed every plate and offers no comment on the habit.",
+		"category": "collection",
+		"rarity": "uncommon",
+		"color": "#4f8a5c",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M14.832 8.445a1 1 0 00-1.589-.098l-2.075 3.098a1 1 0 000 1.11l2 3a1 1 0 001.664 0l2-3a1 1 0 000-1.11z\"/><path d=\"m7.18 20.827-5-11a2 2 0 01.993-2.647L7 5.44\"/><rect x=\"7\" y=\"2\" width=\"14\" height=\"20\" rx=\"2\"/></svg>"
+	},
+	{
+		"name": "First Legendary",
+		"description": "Pulled your first Legendary. One card in forty, and every team is owed exactly one — so somebody's best player is now yours to keep or to trade.",
+		"category": "collection",
+		"rarity": "rare",
+		"color": "#2f6f9e",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 5 13.7 9.65 18.66 9.84 14.76 12.9 16.11 17.66 12 14.9 7.89 17.66 9.24 12.9 5.34 9.84 10.3 9.65Z\"/></svg>"
+	},
+	{
+		"name": "Struck in Foil",
+		"description": "Pulled a Legendary in foil. One card in four thousand, and worth five blisters at the scrap counter. La Confrérie logged the plate and said nothing. Everyone else will.",
+		"category": "collection",
+		"rarity": "legendary",
+		"color": "#c8762e",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 5 13.7 9.65 18.66 9.84 14.76 12.9 16.11 17.66 12 14.9 7.89 17.66 9.24 12.9 5.34 9.84 10.3 9.65Z\"/><path d=\"M3.5 2.5v3\"/><path d=\"M2 4h3\"/><path d=\"M20.5 18.5v3\"/><path d=\"M19 20h3\"/></svg>"
+	},
+	{
+		"name": "The Wall",
+		"description": "Filled a binder to the last slot. A fan who does not wish to acquire more must decide what to keep — the petition said so before you found out it meant you.",
+		"category": "collection",
+		"rarity": "uncommon",
+		"color": "#8a4fa0",
+		"svg": "<svg aria-hidden=\"true\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12.65 7.65a2 2 0 012.629-1.046l5.51 2.374a2 2 0 011.046 2.628l-3.957 9.184a2 2 0 01-2.628 1.046l-5.51-2.374a2 2 0 01-1.046-2.628z\"/><path d=\"M18 7.777V4a2 2 0 00-2-2h-6a2 2 0 00-2 2v10a2 2 0 001.137 1.805\"/><path d=\"m8 4.389-4.364.809a2 2 0 00-1.602 2.33l1.822 9.833a2 2 0 002.331 1.602l2.542-.47\"/></svg>"
+	}
+]

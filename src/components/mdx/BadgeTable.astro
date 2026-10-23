@@ -1,0 +1,131 @@
+---
+// One category of badges, as the app's /admin/badges groups them: common
+// first, legendary last. The data comes from `scripts/sync-badges.mjs`; edit
+// the app, not the JSON.
+//
+// The tooltip a fan sees on hover is written out in its own column, since a
+// hover does nothing on a phone.
+import badges from "../../data/badges.json";
+
+interface Props {
+	category: string;
+}
+
+const RARITY = ["common", "uncommon", "rare", "legendary"];
+
+const { category } = Astro.props;
+const rows = badges
+	.filter((badge) => badge.category === category)
+	.sort((a, b) => RARITY.indexOf(a.rarity) - RARITY.indexOf(b.rarity));
+
+if (rows.length === 0) {
+	throw new Error(`BadgeTable: no badges in category "${category}"`);
+}
+---
+
+<table class="badge-table">
+	<thead>
+		<tr>
+			<th>Badge</th>
+			<th>Tooltip</th>
+		</tr>
+	</thead>
+	<tbody>
+		{
+			rows.map((badge) => (
+				<tr>
+					<td>
+						<span class="badge">
+							<span class="badge-seal" style={`color: ${badge.color}`} set:html={badge.svg} />
+							<span>
+								<span class="badge-name">{badge.name}</span>
+								<span class="badge-rarity">{badge.rarity}</span>
+							</span>
+						</span>
+					</td>
+					<td>{badge.description}</td>
+				</tr>
+			))
+		}
+	</tbody>
+</table>
+
+<style>
+	/* Starlight sets tables to `display: block`, which sizes each one to its
+	   own text. A full-width table with a fixed first column lines the
+	   tooltips up from one category to the next. */
+	.badge-table {
+		display: table;
+		width: 100%;
+	}
+
+	.badge-table :is(th, td) {
+		vertical-align: middle;
+	}
+
+	.badge-table th:first-child {
+		width: 17rem;
+	}
+
+	.badge {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+	}
+
+	/* The app draws badges on its light ground, and some of their colours are
+	   near-black (Zeroed Out, Unlapsing). The seal keeps that ground in both
+	   themes, so a badge reads the same here as on a fan's profile. */
+	.badge-seal {
+		flex: none;
+		display: grid;
+		place-items: center;
+		width: 3rem;
+		height: 3rem;
+		border: 1px solid var(--hockay-border);
+		border-radius: 0.5rem;
+		background: var(--hockay-background);
+	}
+
+	.badge-seal :global(svg) {
+		width: 2.25rem;
+		height: 2.25rem;
+	}
+
+	.badge-name {
+		display: block;
+		font-weight: 500;
+	}
+
+	.badge-rarity {
+		display: block;
+		font-family: var(--hockay-font-mono);
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-3);
+		text-transform: capitalize;
+	}
+
+	/* Two columns leave the tooltip a word wide on a phone. Each row becomes
+	   a card instead: the badge, then its tooltip underneath. */
+	@media (max-width: 40rem) {
+		.badge-table thead {
+			display: none;
+		}
+
+		.badge-table tr {
+			display: block;
+			padding: 0.75rem 0;
+			border-bottom: 1px solid var(--sl-color-gray-5);
+		}
+
+		.badge-table td {
+			display: block;
+			padding: 0;
+			border: none;
+		}
+
+		.badge-table td + td {
+			margin-top: 0.5rem;
+		}
+	}
+</style>
